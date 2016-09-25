@@ -1,0 +1,23 @@
+{
+  "name": "browserstream",
+  "version": "1.0.0",
+  "description": "Stream the DOM of one tab to another tab in any computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athuli7/browserStream.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Athuli7/browserStream/issues"
+  },
+  "homepage": "https://github.com/Athuli7/browserStream#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
